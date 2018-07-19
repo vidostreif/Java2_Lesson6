@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Main {
+public class Server {
     static ServerSocket serv = null;
     static Socket sock = null;
     static PrintWriter pw = null;
